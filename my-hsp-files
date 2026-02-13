@@ -1,9 +1,0 @@
-my-hsp-files/
-├── examples/
-│   ├── hello.hps
-│   ├── genshin.hps
-│   └── original.hps
-└── docs/
-    ├── 01-基础入门.md
-    ├── 02-变量和数学.md
-    └── 03-概率表达.md
