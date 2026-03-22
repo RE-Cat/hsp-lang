@@ -13,3 +13,5 @@
 
 ### [赫尔墨斯概率学·HPS-1.0](https://github.com/RE-Cat/mygod/blob/main/docs%2FHPS.md)
 
+### [欧特碧注音·EPN-1.0]
+(https://github.com/RE-Cat/book-of-the-gods/blob/main/docs%2FEPN.md)
